@@ -22,3 +22,5 @@ Ben-Or, Goldwasser, Kilian, and Wigderson は証明者を p 人に増やした M
 1. Interactive Oracle Proofs, Eli Ben-Sasson, Alessandro Chiesa, and Nicholas Spooner, TCC 2016, <https://eprint.iacr.org/2016/116>
 2. Quasilinear-Size Zero Knowledge from Linear-Algebraic PCPs, Eli Ben-Sasson, Alessandro Chiesa, Ariel Gabizon, and Madars Virza, TCC 2016, <https://eprint.iacr.org/2016/021>
 3. Short Interactive Oracle Proofs with Constant Query Complexity, Eli Ben-Sasson, Alessandro Chiesa, Ariel Gabizon, Michael Riabzev, and Nicholas Spooner, ICALP 2017, <https://eprint.iacr.org/2016/324>
+4. Constant-Round Interactive Proofs for Delegating Computation, Omer Reingold, Ron Rothblum, and Guy Rothblum, STOC 2016, <https://eccc.weizmann.ac.il/report/2016/061>
+
